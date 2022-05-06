@@ -1,4 +1,4 @@
-# DIO Bootcamp TQI FullStack Developer 
+# <img src="/images/avatar1.png" width="100" height="100"> DIO Bootcamp TQI FullStack Developer  
 #### Criando meu Primeiro Repositório no GitHub Para Compartilhar meu Progresso no Bootcamp Dio TQi Fullstack Developer
 
 ### Links Úteis
